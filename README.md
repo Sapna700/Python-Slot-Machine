@@ -1,5 +1,5 @@
 # Python-Slot-Machine
-This is a simple python slot machine game.
+# This is a simple python slot machine game.
 1. Constants and Symbol Definitions:
 
 * MAX_LINES, MAX_BET, MIN_BET: Define the maximum number of lines to bet on, the maximum bet amount, and the minimum bet amount.
